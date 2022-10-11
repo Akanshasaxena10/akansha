@@ -1,0 +1,16 @@
+head { color: blue;
+    background-color: black;
+border-radius:15 ;
+}
+p {
+  font-size: larger;
+  font-weight: bold;
+  color: brown;
+}
+
+ #thumb {
+    border: 50;
+    background-color: aquamarine;
+    border-radius: 15;
+
+}
